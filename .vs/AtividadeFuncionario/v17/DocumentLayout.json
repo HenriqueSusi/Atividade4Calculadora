@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ACFC52-EF2E-44F3-A219-63BEF8CA0FB8}|TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\testecalculocustofunc\\testecalculocustofunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3ACFC52-EF2E-44F3-A219-63BEF8CA0FB8}|TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj|solutionrelative:testecalculocustofunc\\testecalculocustofunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ACFC52-EF2E-44F3-A219-63BEF8CA0FB8}|TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\testecalculocustofunc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ACFC52-EF2E-44F3-A219-63BEF8CA0FB8}|TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj|solutionrelative:testecalculocustofunc\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\custofuncionarioapp\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|solutionrelative:custofuncionarioapp\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\custofuncionarioapp\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|solutionrelative:custofuncionarioapp\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\custofuncionarioapp\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|solutionrelative:custofuncionarioapp\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\custofuncionarioapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|solutionrelative:custofuncionarioapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|c:\\users\\senai3em\\desktop\\calculadora-de-custo-de-empregado-master\\calculadora-de-custo-de-empregado-master\\custofuncionarioapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7581134-4AD0-4409-A572-AED375B46FBC}|CustoFuncionarioApp\\AtividadeFuncionario.csproj|solutionrelative:custofuncionarioapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteCalculoCustoFunc.csproj",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj",
+              "RelativeDocumentMoniker": "TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj",
+              "RelativeToolTip": "TesteCalculoCustoFunc\\TesteCalculoCustoFunc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T16:27:31.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\TesteCalculoCustoFunc\\Calculadora.cs",
+              "RelativeDocumentMoniker": "TesteCalculoCustoFunc\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\TesteCalculoCustoFunc\\Calculadora.cs",
+              "RelativeToolTip": "TesteCalculoCustoFunc\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:26:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Models\\Funcionario.cs",
+              "RelativeToolTip": "CustoFuncionarioApp\\Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:25:26.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "CustoFuncionarioApp\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:25:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Views\\Funcionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Views\\Funcionario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Views\\Funcionario\\Index.cshtml",
+              "RelativeToolTip": "CustoFuncionarioApp\\Views\\Funcionario\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBZwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:24:16.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CustoFuncionarioApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T16:24:14.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CustoFuncionarioApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Calculadora-de-Custo-de-Empregado-master\\Calculadora-de-Custo-de-Empregado-master\\CustoFuncionarioApp\\appsettings.json",
+              "RelativeToolTip": "CustoFuncionarioApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T16:23:18.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
